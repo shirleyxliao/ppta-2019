@@ -13,3 +13,12 @@ Code supporting the Liao and Zigler (2019) paper "Posterior Predictive Treatment
 
 - runIPW_boot_app.R: A modification of runIPW_boot.R to run on the application data, 
 - simulated_app_data.R: application data frame in the same format as analyzed with runIPW_boot_app.R, but with simulated outcomes and census data. 
+
+## Figure generation code
+
+- sim_tables.R: Code to generate Tables 1-3. 
+- app_tables.R: code to generate Tables 4-7
+
+### Maps
+
+- Shape files, data and code (map_code.R) to generate Figures 1-5. 
