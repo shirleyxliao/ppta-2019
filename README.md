@@ -16,7 +16,6 @@ Code supporting the Liao and Zigler (2019) paper "Posterior Predictive Treatment
 
 ## Figure generation code
 
-- sim_tables.R: Code to generate Tables 1-3. 
 - app_tables.R: code to generate Tables 4-7
 
 ### Maps
